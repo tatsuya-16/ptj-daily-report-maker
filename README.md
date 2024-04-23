@@ -24,3 +24,6 @@
 
 ## 出力
 - 当日の売上報告
+
+＃ 参考サイト
+- [数字からカンマを取り除くparseIntとreplace【JavaScript】](https://web-tsuku.life/remove-comma-parseint-replace/)
